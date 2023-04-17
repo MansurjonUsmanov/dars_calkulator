@@ -38,6 +38,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
         resultFontSize=48.0;
 
 
+
       } else if (buttonText=="⌫") {
         equationFontSize=38.0;
         resultFontSize=48.0;
